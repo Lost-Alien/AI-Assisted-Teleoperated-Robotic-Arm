@@ -2,7 +2,7 @@
 
 An AI-enhanced, 3D-printed master-slave robotic arm system integrated with a computer vision pipeline for real-time object tracking and automated precision grasping. 
 
-
+![Robotic Arm](./large_display_d79b4c91-4d43-4f5a-97b8-6d456b91e350_818975.webp)
 ---
 
 ## 🚀 Features
