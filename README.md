@@ -2,7 +2,6 @@
 
 An AI-enhanced, 3D-printed master-slave robotic arm system integrated with a computer vision pipeline for real-time object tracking and automated precision grasping. 
 
-This project builds upon the mechanical and hardware foundation of the Compact Robot Arm design by [Build Some Stuff](https://www.youtube.com/watch?v=AIsVlgopqJc&t=211s), upgrading it with intelligent AI-driven automation.
 
 ---
 
@@ -39,8 +38,4 @@ This project builds upon the mechanical and hardware foundation of the Compact R
 * `Compact_Robot_Arm_Code.ino` - Core Arduino firmware managing the master-slave servo mappings and potentiometer telemetry.
 * `README.md` - Documentation of the project.
 
----
 
-## 📜 Acknowledgments
-
-* Mechanical structure and basic hardware wiring guide inspired by the excellent tutorial series from the YouTube channel [Build Some Stuff](https://www.youtube.com/watch?v=AIsVlgopqJc&t=211s).
